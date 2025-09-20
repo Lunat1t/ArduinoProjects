@@ -15,5 +15,6 @@ Lcd2 -> https://www.tinkercad.com/things/3NxwPPSRfkc-stunning-borwo-tumelo
 
 Датчики                                                                                                          
 Температура -> https://www.tinkercad.com/things/5SNyAvafxrL-copy-of-module-1-lesson-8-temperature-sensor-task-1                      
-Температура2 ->  https://www.tinkercad.com/things/dvQv7X0eSww-copy-of-copy-of-module-1-lesson-8-temperature-sensor-bonus-task 
+Температура2 ->  https://www.tinkercad.com/things/dvQv7X0eSww-copy-of-copy-of-module-1-lesson-8-temperature-sensor-bonus-task                               
 Свет -> https://www.tinkercad.com/things/9m1drJJ2EED-copy-of-2020-module-1-lesson-5-task-2-fsr-w-led                             
+Движение -> https://www.tinkercad.com/things/aQK9GzPiQRr-copy-of-lesson-17                      
